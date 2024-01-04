@@ -7,6 +7,7 @@
     text-decoration: none;
     outline: 0;
     font-weight: 400;
+    max-width: 100%;
 }
 
 html{
@@ -20,7 +21,6 @@ html{
 
 body{
     background-color: #fff;
-    width: 120rem;
     max-width: 100%;
     margin: auto;
     box-shadow: 0.1rem 0.1rem 0.1rem #c4c4c4, -0.1rem
